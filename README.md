@@ -32,4 +32,13 @@
 ```
     npm run lint:fix
 ```
-       
+### 代码提交相关
+```
+1. git add .
+2. npx git-cz
+3. git push
+```       
+>  cz工具配置
+```
+在 changelog.config.js 文件配置相关提交配置
+```
