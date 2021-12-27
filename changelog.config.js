@@ -47,7 +47,7 @@ module.exports = {
       "value": "feat"
     },
     "fix": {
-      "description": "A bug fix",
+      "description": "修复bug",
       "emoji": "🐛",
       "value": "fix"
     },
