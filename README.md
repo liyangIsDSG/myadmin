@@ -1,10 +1,8 @@
 # myadmin
----
 
 基于 antdesign pro 写一些 demo
 
 ## 环境准备
----
 :label:  node 版本 > 14
 安装 node_modules:
 ```
@@ -15,7 +13,6 @@
     yarn
 ```
 ## 相关脚本
----
 ### 项目启动
 ```
     npm start
